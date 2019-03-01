@@ -3,7 +3,7 @@ Solutions to various CodinGame challenge puzzles. Each puzzle have a tag identif
 
 ## Classic Puzzle – Easy
 
-### Temperatures
+### Temperatures (cpp)
 **Topics:** *Arrays, Loops, Conditions*
 
 #### Statement
@@ -15,7 +15,7 @@ It's freezing cold out there! Will you be able to find the temperature closest t
 #### Rules
 Write a program that prints the temperature closest to 0 among input data. If two numbers are equally close to zero, positive integer has to be considered closest to zero (for instance, if the temperatures are -5 and 5, then display 5).
 
-### The Descent
+### The Descent (cpp)
 **Topics:** *Loops*
 
 #### Statement
@@ -29,7 +29,7 @@ At the start of each game turn, you are given the height of the 8 mountains from
 
 ## Classic Puzzle – Medium
 
-### Shadows of the Knight - Episode 1
+### Shadows of the Knight - Episode 1 (cpp)
 **Topics:** *Binary Search, Intervals*
 
 #### Statement
